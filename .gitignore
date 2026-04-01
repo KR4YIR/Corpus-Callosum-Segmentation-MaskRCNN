@@ -1,0 +1,10 @@
+# Veri Setleri ve Klasörler
+abide.cc.bvol.20150121/
+abide.cc.measurements.20150118/
+OUT/
+outputImage/
+output/
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
